@@ -1,0 +1,32 @@
+Para depurar, es posible realizarlo desde el package.json en la opción "Debug", elige el archivo a depurar y ejecuta
+
+-------------
+Patron adaptador
+---------------
+Capa de protección, es crear nuestro propio codigo que adapta una dependencia de terceros a nuestro código para que no dependa del tercero.
+
+Se crea una carpeta donde ingresaremos estas dependencias, dentro de esta carpeta creamos un archivo index.js donde encapsulamos todos los plugins(dependencias)
+
+###########################################
+para ejecutar un scrip del package json
+###########################################
+npm run "Nombre del script en package json"
+
+###########################################################
+Para instalar todas las dependencias de un proyecto - APP
+###########################################################
+npm install o npm i
+
+###################################################
+Winston para crear logs en archivos independientes
+###################################################
+
+
+es posible ejecutar nodemon con npx, así: npx nodemon "App.js"
+
+###################################################
+Testing Librarys recomendadas
+###################################################
+Jest
+Mocha
+Jasmine

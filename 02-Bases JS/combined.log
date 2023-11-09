@@ -1,0 +1,4 @@
+{"level":"info","message":"Hello World","service":"app.js","timestamp":"2023-10-30T20:54:44.041Z"}
+{"level":"error","message":"error Ha ocurrido un error","service":"app.js","timestamp":"2023-10-30T20:54:44.045Z"}
+{"level":"info","message":"Hello World","service":"app.js","timestamp":"2023-10-30T20:54:51.574Z"}
+{"level":"error","message":"error Ha ocurrido un error","service":"app.js","timestamp":"2023-10-30T20:54:51.577Z"}

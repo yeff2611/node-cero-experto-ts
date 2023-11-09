@@ -1,0 +1,13 @@
+Instalaciones recomendadas - Curso de NodeJS
+https://gist.github.com/Klerith/ab9f091aea5dca80d37c7c9f731c0193
+
+Pasos para usar Node con TypeScript con Nodemon
+https://gist.github.com/Klerith/47af527da090043f604b972b22dd4c01
+
+
+Configuración Jtest con TypeScripe en Node para realizar pruebas
+https://gist.github.com/Klerith/98d7b1bc0f1525e892f260813cad1007
+
+
+Pasos para usar Node con TypeScript con Nodemon - Node con TypeScript - Recomendado - Resumido
+https://gist.github.com/Klerith/47af527da090043f604b972b22dd4c01
